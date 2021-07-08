@@ -1,6 +1,6 @@
 ### Hi there, I'm Eduardo Westphal da Cunha 👋
 
-- 🔭 I’m currently working on Embraer
+- 🔭 I’m currently working on dApps
 - 🌱 I’m currently learning Blockchain development, Python and Web development
 - 👯 I’m looking to collaborate on decentralized apps development
 - 🤔 I’m looking for help with opportunities of career change to blockchain/software development
