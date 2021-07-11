@@ -9,4 +9,4 @@
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I was the drummer in my teenage band
 
-### For more information about me and the projects I've worked on, please see my [résumé](https://github.com/EWCunha/Resume/blob/main/README.md) and my [projects page]()!
+### For more information about me and the projects I've worked on, please see my [résumé](https://github.com/EWCunha/Resume/blob/main/README.md) and my [projects page](https://github.com/EWCunha/Projects)!
