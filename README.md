@@ -1,7 +1,7 @@
 ### Hi there, I'm Eduardo Westphal da Cunha 👋
 
 - 🔭 I’m currently working on dApps
-- 🌱 I’m currently learning Blockchain development, Python and Web development
+- 🌱 I’m currently learning Blockchain development, Python and Data Science
 - 👯 I’m looking to collaborate on decentralized apps development
 - 🤔 I’m looking for help with opportunities of career change to blockchain/software development
 - 💬 Ask me about mechanical or aeronautical engineering, Matlab
