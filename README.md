@@ -1,7 +1,7 @@
 ### Hi there, I'm Eduardo 👋
 
 - 👯 I’m looking to collaborate on decentralized apps development
-- 🤔 I’m looking for job opportunities in dApp development
+- 🤔 I’m looking for job opportunity in dApp development
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I was the drummer in my teenage band
 
