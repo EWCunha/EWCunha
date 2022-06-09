@@ -28,7 +28,7 @@
   ##
  
 <div align="center">
-  <a href = "https://api.whatsapp.com/send?phone=5541999429764&text=Hi%20there%20Ed!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-   badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a href = "mailto:eduardowestc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://api.whatsapp.com/send?phone=5541999429764&text=Hi%20there%20Ed!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="mailto:eduardowestc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eduardo-westphal-da-cunha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
