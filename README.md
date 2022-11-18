@@ -1,9 +1,9 @@
 ### Hi there, I'm Eduardo 👋
 
-- 👯 I’m looking to collaborate on decentralized apps development
-- 🤔 I’m looking for job opportunity in dApp development
+- 👯 I’m looking to collaborate on Web3 projects
+- 🤔 I’m looking for job opportunity in Solidity development/Smart Contract engineering
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: I was the drummer in my teenage band
+- ⚡ Fun fact: I play the drums
 
 <div align="center">
   <a href="https://beacons.ai/EWCunha">
