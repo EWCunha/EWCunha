@@ -1,7 +1,7 @@
 ### Hi there, I'm Eduardo 👋
 
-- 👯 I’m learning smart contracts audit (and always learning security)
-- 🤔 Smart contract developer lookig for opportunities to become an auditor (or as suggested by Patrick Collins, a blockchain security researcher)
+- 👯 Smart Contract developer and security researcher
+- 🤔 Learning Solana
 - ⚡ Fun fact: I play the drums
 
 <div align="center">
