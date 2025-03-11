@@ -1,8 +1,7 @@
 ### Hi there, I'm Eduardo 👋
 
-- 👯 Smart Contract developer and security researcher
+- 👯 Smart Contract developer
 - 🤔 Learning Solana
-- ⚡ Fun fact: I play the drums
 
 <div align="center">
   <a href="https://beacons.ai/EWCunha">
