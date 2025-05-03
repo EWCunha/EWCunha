@@ -3,6 +3,17 @@
 - 👯 Smart Contract developer
 - 🤔 Learning Solana
 
+  ## Interests
+  - Solidity, Golang, Rust
+  - EVM, Solana
+  - Anything related to blockchain
+  - Cryptography
+  - Zero Knowledge Proofs
+  - MPC
+  - Fully Homomorphic Encryption (FHE)
+  - Data science, machine learning, NLP, LLM
+  - Aeronautical engineering
+
 <div align="center">
   <a href="https://beacons.ai/EWCunha">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EWCunha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
